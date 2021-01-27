@@ -1,6 +1,6 @@
-# Curso-React-Udemy
+# Curso React
 Proyectos del curso - React
 
 ### Descripción
-
-En este repositorio se encontrarán desde los fundamentos básicos de Javascript hasta los proyectos creados en el curso de React que me encuentro realizando.
+- Este repositorio se encontrarán los proyectos que estoy realizando en mi proceso de aprendizaje en el framework de React.
+- Se subirá desde conceptos básicos de Javascript hasta aplicaciones reales.
