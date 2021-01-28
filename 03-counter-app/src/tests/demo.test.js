@@ -1,12 +1,19 @@
-
-
-
-test( 'firstTest', () =>  {
+describe('Pruebas en el demo.test.js', () =>{
     
-    const isActive = true;
+    test( 'Equals Strings', () =>  {
+    
+        // 1. Inicialización
+        const mensaje = 'Hola mundo';
+    
+        // 2. Estimulo
+        const mensaje2 = "Hola mundo";
+    
+        // 3. Observar comportamiento
+        expect( mensaje ).toBe( mensaje2 );
+    
+    });
 
-    if ( isActive ){
-        throw new Error ( 'Is not active' );
-    } 
+});
 
-})
+
+ 
