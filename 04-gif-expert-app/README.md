@@ -1,4 +1,4 @@
-# Imágenes del producto final
+# Imágenes del proyecto final
 
 
 <img src = "./assets/captura_proyecto.png">
